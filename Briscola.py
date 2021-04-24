@@ -398,7 +398,7 @@ print (WELCOME)
 
 while (True):
     try:
-        player1_name = input (str("Player 1, please inster your name: "))
+        player1_name = input (str("Player 1, please insert your name: "))
         if player1_name.isalpha() == True:
             firstHand = [deckCards.pop(), deckCards.pop(), deckCards.pop()]
             player1 = Player (firstHand, player1_name)
@@ -413,7 +413,7 @@ while (True):
         exit(0)
 while (True):
     try:
-        player2_name = input (str("Player 2, please inster your name: "))
+        player2_name = input (str("Player 2, please insert your name: "))
         if player2_name.isalpha() == True:
             secondHand = [deckCards.pop(), deckCards.pop(), deckCards.pop()]
             player2 = Player (secondHand, player2_name)
