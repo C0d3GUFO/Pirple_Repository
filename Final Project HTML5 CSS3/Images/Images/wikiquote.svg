@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="-65.5 -178.5 302 357" id="Wikiquote-logo_sister" y="286">
+  <defs>
+    <radialGradient id="ha" gradientUnits="userSpaceOnUse" r="59.1" cx="0" cy="0">
+      <stop offset="0%" stop-color="#00003b"/>
+      <stop offset="100%" stop-color="#002f64"/>
+    </radialGradient>
+    <clipPath id="hb">
+      <path d="M-25 0l300 300L575 0 275-300z"/>
+    </clipPath>
+  </defs>
+  <circle r="59.1" fill="url(#ha)"/>
+  <g clip-path="url(#hb)" fill="none">
+  <circle r="101" stroke="#003b6f" stroke-width="29"/>
+  <circle r="156.5" stroke="#3b6fa0" stroke-width="30.4"/>
+  <circle r="215.7" stroke="#6fa0d0" stroke-width="31.4"/>
+</g>
+</svg>
